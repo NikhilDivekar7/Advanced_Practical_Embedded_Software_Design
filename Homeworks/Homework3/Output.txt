@@ -1,0 +1,1372 @@
+Thread_Name: Main thread Message: Main thread started
+ PPID: 14310 PID: 26587 TID: 26587 Timestamp: Mon Feb 19 00:53:11 2018
+
+Thread_Name: First thread Message: First thread created
+ PPID: 14310 PID: 26587 TID: 26587 Timestamp: Mon Feb 19 00:53:11 2018
+
+Thread_Name: Second thread Message: Second Thread created
+ PPID: 14310 PID: 26587 TID: 26587 Timestamp: Mon Feb 19 00:53:11 2018
+
+Thread_Name: Second Thread Message: Executing second thread
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:11 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:11 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:12 2018
+
+cpu  2694676 2312 216690 4891450 3551 0 796 0 0 0
+cpu0 2694676 2312 216690 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:12 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26588 Timestamp: Mon Feb 19 00:53:12 2018
+
+cpu  2694711 2312 216691 4891450 3551 0 796 0 0 0
+cpu0 2694711 2312 216691 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:12 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26588 Timestamp: Mon Feb 19 00:53:12 2018
+
+cpu  2694744 2312 216692 4891450 3551 0 796 0 0 0
+cpu0 2694744 2312 216692 4891450 3551 0 796 0 0 0
+ÿThread_Name: First thread Message: Executing first child
+ PPID: 14310 PID: 26587 TID: 26588 Timestamp: Mon Feb 19 00:53:12 2018
+
+Thread_Name: First thread Message: Character occured thrice
+ PPID: 14310 PID: 26587 TID: 26588 Timestamp: Mon Feb 19 00:53:12 2018
+Character occured thrice: Q 
+
+Thread_Name: First thread Message: Character occured thrice
+ PPID: 14310 PID: 26587 TID: 26588 Timestamp: Mon Feb 19 00:53:12 2018
+Character occured thrice: X 
+
+Thread_Name: First thread Message: Character occured thrice
+ PPID: 14310 PID: 26587 TID: 26588 Timestamp: Mon Feb 19 00:53:12 2018
+Character occured thrice: Z 
+
+Thread_Name: First Thread Message: Exiting first thread
+ PPID: 14310 PID: 26587 TID: 26588 Timestamp: Mon Feb 19 00:53:12 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:12 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:13 2018
+
+cpu  2694776 2312 216692 4891450 3551 0 796 0 0 0
+cpu0 2694776 2312 216692 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:13 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:13 2018
+
+cpu  2694812 2312 216693 4891450 3551 0 796 0 0 0
+cpu0 2694812 2312 216693 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:13 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:14 2018
+
+cpu  2694861 2312 216695 4891450 3551 0 796 0 0 0
+cpu0 2694861 2312 216695 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:14 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:14 2018
+
+cpu  2694902 2312 216698 4891450 3551 0 796 0 0 0
+cpu0 2694902 2312 216698 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:14 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:14 2018
+
+cpu  2694935 2312 216699 4891450 3551 0 796 0 0 0
+cpu0 2694935 2312 216699 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:15 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:15 2018
+
+cpu  2694979 2312 216702 4891450 3551 0 796 0 0 0
+cpu0 2694979 2312 216702 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:15 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:15 2018
+
+cpu  2695031 2312 216705 4891450 3551 0 796 0 0 0
+cpu0 2695031 2312 216705 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:16 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:16 2018
+
+cpu  2695070 2312 216708 4891450 3551 0 796 0 0 0
+cpu0 2695070 2312 216708 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:16 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:16 2018
+
+cpu  2695116 2312 216711 4891450 3551 0 796 0 0 0
+cpu0 2695116 2312 216711 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:17 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:17 2018
+
+cpu  2695160 2312 216714 4891450 3551 0 796 0 0 0
+cpu0 2695160 2312 216714 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:17 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:17 2018
+
+cpu  2695194 2312 216716 4891450 3551 0 796 0 0 0
+cpu0 2695194 2312 216716 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:17 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:17 2018
+
+cpu  2695227 2312 216718 4891450 3551 0 796 0 0 0
+cpu0 2695227 2312 216718 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:18 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:18 2018
+
+cpu  2695264 2312 216718 4891450 3551 0 796 0 0 0
+cpu0 2695264 2312 216718 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:18 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:18 2018
+
+cpu  2695316 2312 216720 4891450 3551 0 796 0 0 0
+cpu0 2695316 2312 216720 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:19 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:19 2018
+
+cpu  2695360 2312 216721 4891450 3551 0 796 0 0 0
+cpu0 2695360 2312 216721 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:19 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:19 2018
+
+cpu  2695404 2312 216722 4891450 3551 0 796 0 0 0
+cpu0 2695404 2312 216722 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:19 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:20 2018
+
+cpu  2695447 2312 216724 4891450 3551 0 796 0 0 0
+cpu0 2695447 2312 216724 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:20 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:20 2018
+
+cpu  2695488 2312 216724 4891450 3551 0 796 0 0 0
+cpu0 2695488 2312 216724 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:20 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:21 2018
+
+cpu  2695540 2312 216724 4891450 3551 0 796 0 0 0
+cpu0 2695540 2312 216724 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:21 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:21 2018
+
+cpu  2695584 2312 216724 4891450 3551 0 796 0 0 0
+cpu0 2695584 2312 216724 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:21 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:21 2018
+
+cpu  2695626 2312 216726 4891450 3551 0 796 0 0 0
+cpu0 2695626 2312 216726 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:21 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:22 2018
+
+cpu  2695666 2312 216726 4891450 3551 0 796 0 0 0
+cpu0 2695666 2312 216726 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:22 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:22 2018
+
+cpu  2Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:22 2018
+
+695707 2312 216726 4891450 3551 0 796 0 0 0
+cpu0 2695707 2312 216726 4891450 3551 0 796 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:23 2018
+
+cpu  2695744 2312 216729 4891450 3551 0 797 0 0 0
+cpu0 2695744 2312 216729 4891450 3551 0 797 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:23 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:23 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:23 2018
+
+cpu  2695791 2312 216730 4891450 3551 0 797 0 0 0
+cpu0 2695791 2312 216730 4891450 3551 0 797 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:24 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:24 2018
+
+cpu  2695830 2312 216731 4891450 3551 0 797 0 0 0
+cpu0 2695830 2312 216731 4891450 3551 0 797 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:24 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:24 2018
+
+cpu  2695877 2312 216736 4891450 3551 0 797 0 0 0
+cpu0 2695877 2312 216736 4891450 3551 0 797 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:25 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:25 2018
+
+cpu  2695936 2312 216738 4891450 3551 0 797 0 0 0
+cpu0 2695936 2312 216738 4891450 3551 0 797 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:25 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:25 2018
+
+cpu  2695981 2312 216740 4891450 3551 0 797 0 0 0
+cpu0 2695981 2312 216740 4891450 3551 0 797 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:25 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:26 2018
+
+cpu  2696020 2312 216742 4891450 3551 0 797 0 0 0
+cpu0 2696020 2312 216742 4891450 3551 0 797 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:26 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:26 2018
+
+cpu  2696078 2312 216745 4891450 3551 0 797 0 0 0
+cpu0 2696078 2312 216745 4891450 3551 0 797 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:27 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:27 2018
+
+cpu  2696123 2312 216748 4891450 3551 0 798 0 0 0
+cpu0 2696123 2312 216748 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:27 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:27 2018
+
+cpu  2696155 2312 216749 4891450 3551 0 798 0 0 0
+cpu0 2696155 2312 216749 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:27 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:28 2018
+
+cpu  2696203 2312 216753 4891450 3551 0 798 0 0 0
+cpu0 2696203 2312 216753 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:28 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:28 2018
+
+cpu  2696245 2312 216756 4891450 3551 0 798 0 0 0
+cpu0 2696245 2312 216756 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:28 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:28 2018
+
+cpu  2696288 2312 216756 4891450 3551 0 798 0 0 0
+cpu0 2696288 2312 216756 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:29 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:29 2018
+
+cpu  2696335 2312 216757 4891450 3551 0 798 0 0 0
+cpu0 2696335 2312 216757 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:29 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:29 2018
+
+cpu  2696377 2312 216759 4891450 3551 0 798 0 0 0
+cpu0 2696377 2312 216759 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:29 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:30 2018
+
+cpu  2696419 2312 216762 4891450 3551 0 798 0 0 0
+cpu0 2696419 2312 216762 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:30 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:30 2018
+
+cpu  2696458 2312 216765 4891450 3551 0 798 0 0 0
+cpu0 2696458 2312 216765 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:30 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:31 2018
+
+cpu  2696493 2312 216766 4891450 3551 0 798 0 0 0
+cpu0 2696493 2312 216766 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:31 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:31 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:31 2018
+
+cpu  2696531 2312 216767 4891450 3551 0 798 0 0 0
+cpu0 2696531 2312 216767 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:31 2018
+
+cpu  2696562 2312 216767 4891450 3551 0 798 0 0 0
+cpu0 2696562 2312 216767 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:31 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:32 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:32 2018
+
+cpu  2696597 2312 216768 4891450 3551 0 798 0 0 0
+cpu0 2696597 2312 216768 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:32 2018
+
+cpu  2696628 2312 216769 4891450 3551 0 798 0 0 0
+cpu0 2696628 2312 216769 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:32 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:32 2018
+
+cpu  2696662 2312 216770 4891450 3551 0 798 0 0 0
+cpu0 2696662 2312 216770 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:32 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:33 2018
+
+cpu  2696695 2312 216772 4891450 3551 0 798 0 0 0
+cpu0 2696695 2312 216772 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:33 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:33 2018
+
+cpu  2696726 2312 216774 4891450 3551 0 798 0 0 0
+cpu0 2696726 2312 216774 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:33 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:33 2018
+
+cpu  2696762 2312 216775 4891450 3551 0 798 0 0 0
+cpu0 2696762 2312 216775 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:33 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:34 2018
+
+cpu  2696795 2312 216776 4891450 3551 0 798 0 0 0
+cpu0 2696795 2312 216776 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:34 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:34 2018
+
+cpu  2696829 2312 216776 4891450 3551 0 798 0 0 0
+cpu0 2696829 2312 216776 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:34 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 14310 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:34 2018
+
+cpu  2696862 2312 216777 4891450 3551 0 798 0 0 0
+cpu0 2696862 2312 216777 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:34 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:35 2018
+
+cpu  2696908 2312 216779 4891450 3551 0 798 0 0 0
+cpu0 2696908 2312 216779 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:35 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:35 2018
+
+cpu  2696939 2312 216780 4891450 3551 0 798 0 0 0
+cpu0 2696939 2312 216780 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:35 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:35 2018
+
+cpu  2696968 2312 216781 4891450 3551 0 798 0 0 0
+cpu0 2696968 2312 216781 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:36 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:36 2018
+
+cpu  2697004 2312 216782 4891450 3551 0 798 0 0 0
+cpu0 2697004 2312 216782 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:36 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:36 2018
+
+cpu  2697039 2312 216784 4891450 3551 0 798 0 0 0
+cpu0 2697039 2312 216784 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:36 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:37 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:37 2018
+
+cpu  2697077 2312 216785 4891450 3551 0 798 0 0 0
+cpu0 2697077 2312 216785 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:37 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:37 2018
+
+cpu  2697124 2312 216787 4891450 3551 0 798 0 0 0
+cpu0 2697124 2312 216787 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:37 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:37 2018
+
+cpu  2697164 2312 216788 4891450 3551 0 798 0 0 0
+cpu0 2697164 2312 216788 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:38 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:38 2018
+
+cpu  2697202 2312 216789 4891450 3551 0 798 0 0 0
+cpu0 2697202 2312 216789 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:38 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:38 2018
+
+cpu  2697254 2312 216790 4891450 3551 0 798 0 0 0
+cpu0 2697254 2312 216790 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:39 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:39 2018
+
+cpu  2697300 2312 216793 4891450 3551 0 798 0 0 0
+cpu0 2697300 2312 216793 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:39 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:39 2018
+
+cpu  2697346 2312 216795 4891450 3551 0 798 0 0 0
+cpu0 2697346 2312 216795 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:40 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:40 2018
+
+cpu  2697394 2312 216796 4891450 3551 0 798 0 0 0
+cpu0 2697394 2312 216796 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:40 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:40 2018
+
+cpu  2697442 2312 216799 4891450 3551 0 798 0 0 0
+cpu0 2697442 2312 216799 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:41 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:41 2018
+
+cpu  2697488 2312 216803 4891450 3551 0 798 0 0 0
+cpu0 2697488 2312 216803 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:41 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:41 2018
+
+cpu  2697528 2312 216804 4891450 3551 0 798 0 0 0
+cpu0 2697528 2312 216804 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:42 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:42 2018
+
+cpu  2697569 2312 216805 4891450 3551 0 798 0 0 0
+cpu0 2697569 2312 216805 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:42 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:42 2018
+
+cpu  2697611 2312 216806 4891450 3551 0 798 0 0 0
+cpu0 2697611 2312 216806 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:43 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:43 2018
+
+cpu  2697660 2312 216810 4891450 3551 0 798 0 0 0
+cpu0 2697660 2312 216810 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:43 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:43 2018
+
+cpu  2697703 2312 216812 4891450 3551 0 798 0 0 0
+cpu0 2697703 2312 216812 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:43 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:43 2018
+
+cpu  2697736 2312 216813 4891450 3551 0 798 0 0 0
+cpu0 2697736 2312 216813 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:44 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:44 2018
+
+cpu  2697779 2312 216817 4891450 3551 0 798 0 0 0
+cpu0 2697779 2312 216817 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:44 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:44 2018
+
+cpu  2697823 2312 216820 4891450 3551 0 798 0 0 0
+cpu0 2697823 2312 216820 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:45 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:45 2018
+
+cpu  2697862 2312 216823 4891450 3551 0 798 0 0 0
+cpu0 2697862 2312 216823 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:45 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:45 2018
+
+cpu  2697911 2312 216825 4891450 3551 0 798 0 0 0
+cpu0 2697911 2312 216825 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:46 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:46 2018
+
+cpu  2697958 2312 216825 4891450 3551 0 798 0 0 0
+cpu0 2697958 2312 216825 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:46 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:46 2018
+
+cpu  2698003 2312 216827 4891450 3551 0 798 0 0 0
+cpu0 2698003 2312 216827 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:47 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:47 2018
+
+cpu  2698047 2312 216828 4891450 3551 0 798 0 0 0
+cpu0 2698047 2312 216828 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:47 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:47 2018
+
+cpu  2698085 2312 216831 4891450 3551 0 798 0 0 0
+cpu0 2698085 2312 216831 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:47 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:48 2018
+
+cpu  2698124 2312 216832 4891450 3551 0 798 0 0 0
+cpu0 2698124 2312 216832 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:48 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:48 2018
+
+cpu  2698168 2312 216836 4891450 3551 0 798 0 0 0
+cpu0 2698168 2312 216836 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:48 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:48 2018
+
+cpu  2698200 2312 216836 4891450 3551 0 798 0 0 0
+cpu0 2698200 2312 216836 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:49 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:49 2018
+
+cpu  2698236 2312 216836 4891450 3551 0 798 0 0 0
+cpu0 2698236 2312 216836 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:49 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:49 2018
+
+cpu  2698282 2312 216837 4891450 3551 0 798 0 0 0
+cpu0 2698282 2312 216837 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:49 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:50 2018
+
+cpu  2698324 2312 216838 4891450 3551 0 798 0 0 0
+cpu0 2698324 2312 216838 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:50 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:50 2018
+
+cpu  2698366 2312 216840 4891450 3551 0 798 0 0 0
+cpu0 2698366 2312 216840 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:50 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:50 2018
+
+cpu  2698404 2312 216841 4891450 3551 0 798 0 0 0
+cpu0 2698404 2312 216841 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:51 2018
+
+cpu  2698442 2312 216842 4891450 3551 0 798 0 0 0
+cpu0 2698442 2312 216842 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:51 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:51 2018
+
+cpu  2698481 2312 216843 4891450 3551 0 798 0 0 0
+cpu0 2698481 2312 216843 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:51 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:52 2018
+
+cpu  2698520 2312 216844 4891450 3551 0 798 0 0 0
+cpu0 2698520 2312 216844 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:52 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:52 2018
+
+cpu  2698560 2312 216846 4891450 3551 0 798 0 0 0
+cpu0 2698560 2312 216846 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:52 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:52 2018
+
+cpu  2698606 2312 216848 4891450 3551 0 798 0 0 0
+cpu0 2698606 2312 216848 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:53 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:53 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:53 2018
+
+cpu  2698648 2312 216849 4891450 3551 0 798 0 0 0
+cpu0 2698648 2312 216849 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:53 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:53 2018
+
+cpu  2698691 2312 216851 4891450 3551 0 798 0 0 0
+cpu0 2698691 2312 216851 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:54 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:54 2018
+
+cpu  2698734 2312 216853 4891450 3551 0 798 0 0 0
+cpu0 2698734 2312 216853 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:54 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:54 2018
+
+cpu  2698776 2312 216854 4891450 3551 0 798 0 0 0
+cpu0 2698776 2312 216854 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:54 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:55 2018
+
+cpu  2698826 2312 216856 4891450 3551 0 798 0 0 0
+cpu0 2698826 2312 216856 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:55 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:55 2018
+
+cpu  2698871 2312 216857 4891450 3551 0 798 0 0 0
+cpu0 2698871 2312 216857 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:55 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:56 2018
+
+cpu  2698914 2312 216858 4891450 3551 0 798 0 0 0
+cpu0 2698914 2312 216858 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:56 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:56 2018
+
+cpu  2698956 23Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:56 2018
+
+12 216860 4891450 3551 0 798 0 0 0
+cpu0 2698956 2312 216860 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:56 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:57 2018
+
+cpu  2699001 2312 216861 4891450 3551 0 798 0 0 0
+cpu0 2699001 2312 216861 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:57 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:57 2018
+
+cpu  2699044 2312 216862 4891450 3551 0 798 0 0 0
+cpu0 2699044 2312 216862 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:57 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:57 2018
+
+cpu  2699086 2312 216864 4891450 3551 0 798 0 0 0
+cpu0 2699086 2312 216864 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:58 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:58 2018
+
+cpu  2699130 2312 216866 4891450 3551 0 798 0 0 0
+cpu0 2699130 2312 216866 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:58 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:58 2018
+
+cpu  2699174 2312 216867 4891450 3551 0 798 0 0 0
+cpu0 2699174 2312 216867 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:59 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:59 2018
+
+cpu  2699212 2312 216868 4891450 3551 0 798 0 0 0
+cpu0 2699212 2312 216868 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:59 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:53:59 2018
+
+cpu  2699254 2312 216869 4891450 3551 0 798 0 0 0
+cpu0 2699254 2312 216869 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:53:59 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:00 2018
+
+cpu  2699294 2312 216870 4891450 3551 0 798 0 0 0
+cpu0 2699294 2312 216870 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:00 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:00 2018
+
+cpu  2699340 2312 216872 4891450 3551 0 798 0 0 0
+cpu0 2699340 2312 216872 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:00 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:01 2018
+
+cpu  2699384 2312 216873 4891450 3551 0 798 0 0 0
+cpu0 2699384 2312 216873 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:01 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:01 2018
+
+cpu  2699429 2312 216874 4891450 3551 0 798 0 0 0
+cpu0 2699429 2312 216874 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:01 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:01 2018
+
+cpu  2699469 2312 216875 4891450 3551 0 798 0 0 0
+cpu0 2699469 2312 216875 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:02 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:02 2018
+
+cpu  2699514 2312 216876 4891450 3551 0 798 0 0 0
+cpu0 2699514 2312 216876 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:02 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:02 2018
+
+cpu  2699558 2312 216877 4891450 3551 0 798 0 0 0
+cpu0 2699558 2312 216877 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:02 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:03 2018
+
+cpu  2699602 2312 216878 4891450 3551 0 798 0 0 0
+cpu0 2699602 2312 216878 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:03 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:03 2018
+
+cpu  2699640 2312 216879 4891450 3551 0 798 0 0 0
+cpu0 2699640 2312 216879 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:03 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:04 2018
+
+cpu  2699682 2312 216881 4891450 3551 0 798 0 0 0
+cpu0 2699682 2312 216881 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:04 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:04 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:04 2018
+
+cpu  2699723 2312 216882 4891450 3551 0 798 0 0 0
+cpu0 2699723 2312 216882 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:04 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:04 2018
+
+cpu  2699764 2312 216883 4891450 3551 0 798 0 0 0
+cpu0 2699764 2312 216883 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:05 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:05 2018
+
+cpu  2699808 2312 216884 4891450 3551 0 798 0 0 0
+cpu0 2699808 2312 216884 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:05 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:05 2018
+
+cpu  2699854 2312 216887 4891450 3551 0 798 0 0 0
+cpu0 2699854 2312 216887 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:06 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:06 2018
+
+cpu  2699898 2312 216888 4891450 3551 0 798 0 0 0
+cpu0 2699898 2312 216888 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:06 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:06 2018
+
+cpu  2699940 2312 216889 4891450 3551 0 798 0 0 0
+cpu0 2699940 2312 216889 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:06 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:07 2018
+
+cpu  2699982 2312 216892 4891450 3551 0 798 0 0 0
+cpu0 2699982 2312 216892 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:07 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:07 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:07 2018
+
+cpu  2700032 2312 216893 4891450 3551 0 798 0 0 0
+cpu0 2700032 2312 216893 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:08 2018
+
+cpu  2700071 2312 216894 4891450 3551 0 798 0 0 0
+cpu0 2700071 2312 216894 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:08 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:08 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:08 2018
+
+cpu  2700110 2312 216894 4891450 3551 0 798 0 0 0
+cpu0 2700110 2312 216894 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:08 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:08 2018
+
+cpu  2700142 2312 216895 4891450 3551 0 798 0 0 0
+cpu0 2700142 2312 216895 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:09 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:09 2018
+
+cpu  2700183 2312 216897 4891450 3551 0 798 0 0 0
+cpu0 2700183 2312 216897 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:09 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:09 2018
+
+cpu  2700227 2312 216898 4891450 3551 0 798 0 0 0
+cpu0 2700227 2312 216898 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:09 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:10 2018
+
+cpu  2700266 2312 216899 4891450 3551 0 798 0 0 0
+cpu0 2700266 2312 216899 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:10 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:10 2018
+
+cpu  2700304 2312 216899 4891450 3551 0 798 0 0 0
+cpu0 2700304 2312 216899 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:10 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:10 2018
+
+cpu  2700344 2312 216899 4891450 3551 0 798 0 0 0
+cpu0 2700344 2312 216899 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:10 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:11 2018
+
+cpu  2700383 2312 216901 4891450 3551 0 798 0 0 0
+cpu0 2700383 2312 216901 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:11 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:11 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:11 2018
+
+cpu  2700427 2312 216903 4891450 3551 0 798 0 0 0
+cpu0 2700427 2312 216903 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:12 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:12 2018
+
+cpu  2700472 2312 216906 4891450 3551 0 798 0 0 0
+cpu0 2700472 2312 216906 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:12 2018
+
+cpu  2700504 2312 216907 4891450 3551 0 798 0 0 0
+cpu0 2700504 2312 216907 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:12 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:12 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:12 2018
+
+cpu  2700545 2312 216908 4891450 3551 0 798 0 0 0
+cpu0 2700545 2312 216908 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:13 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:13 2018
+
+cpu  2700587 2312 216910 4891450 3551 0 798 0 0 0
+cpu0 2700587 2312 216910 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:13 2018
+
+cpu  2700626 2312 216912 4891450 3551 0 798 0 0 0
+cpu0 2700626 2312 216912 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:13 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:14 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:14 2018
+
+cpu  2700665 2312 216913 4891450 3551 0 798 0 0 0
+cpu0 2700665 2312 216913 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:14 2018
+
+cpu  2700702 2312 216914 4891450 3551 0 798 0 0 0
+cpu0 2700702 2312 216914 4891450 3551 0 798 0 0 0
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:14 2018
+
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:15 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:15 2018
+
+cpu  2700744 2312 216916 4891450 3551 0 798 0 0 0
+cpu0 2700744 2312 216916 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:15 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:15 2018
+
+cpu  2700776 2312 216916 4891450 3551 0 798 0 0 0
+cpu0 2700776 2312 216916 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:15 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:15 2018
+
+cpu  2700818 2312 216917 4891450 3551 0 798 0 0 0
+cpu0 2700818 2312 216917 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:16 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:16 2018
+
+cpu  2700853 2312 216918 4891450 3551 0 798 0 0 0
+cpu0 2700853 2312 216918 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:16 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:16 2018
+
+cpu  2700898 2312 216922 4891450 3551 0 798 0 0 0
+cpu0 2700898 2312 216922 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:17 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:17 2018
+
+cpu  2700950 2312 216925 4891450 3551 0 798 0 0 0
+cpu0 2700950 2312 216925 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:17 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:17 2018
+
+cpu  2700994 2312 216926 4891450 3551 0 798 0 0 0
+cpu0 2700994 2312 216926 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:17 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:18 2018
+
+cpu  2701034 2312 216928 4891450 3551 0 798 0 0 0
+cpu0 2701034 2312 216928 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:18 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:18 2018
+
+cpu  2701071 2312 216931 4891450 3551 0 798 0 0 0
+cpu0 2701071 2312 216931 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:18 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:18 2018
+
+cpu  2701106 2312 216932 4891450 3551 0 798 0 0 0
+cpu0 2701106 2312 216932 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:19 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:19 2018
+
+cpu  2701144 2312 216933 4891450 3551 0 798 0 0 0
+cpu0 2701144 2312 216933 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:19 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:19 2018
+
+cpu  2701178 2312 216934 4891450 3551 0 798 0 0 0
+cpu0 2701178 2312 216934 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:19 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:20 2018
+
+cpu  2701228 2312 216936 4891450 3551 0 798 0 0 0
+cpu0 2701228 2312 216936 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:20 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:20 2018
+
+cpu  2701272 2312 216938 4891450 3551 0 798 0 0 0
+cpu0 2701272 2312 216938 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:20 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:21 2018
+
+cpu  2701325 2312 216940 4891450 3551 0 798 0 0 0
+cpu0 2701325 2312 216940 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:21 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:21 2018
+
+cpu  2701385 2312 216944 4891450 3551 0 798 0 0 0
+cpu0 2701385 2312 216944 4891450 3551 0 798 0 0 0
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:21 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:22 2018
+
+cpu  2701431 2312 216945 4891450 3551 0 798 0 0 0
+cpu0 2701431 2312 216945 4891450 3551 0 798 0 0 0
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:22 2018
+
+ÿThread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 26587 TID: 26589 Timestamp: Mon Feb 19 00:54:22 2018
+
+Thread_Name: Second thread Message: CPU Usage Report
+ PPID: 1241 PID: 15727 TID: 15729 Timestamp: Mon Feb 19 00:54:22 2018
+
+cpu  2701485 2312 216948 4891450 3551 0 798 0 0 0
+cpu0 2701485 2312 216948 4891450 3551 0 798 0 0 0
+ÿ

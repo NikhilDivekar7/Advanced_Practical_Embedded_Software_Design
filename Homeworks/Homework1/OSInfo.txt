@@ -1,0 +1,23 @@
+User Information : nikhil 
+
+OS Type : linux-gnu 
+
+Distributor ID:	Ubuntu
+
+OS Version: Release:	16.04
+
+Kernel Version : 4.10.0-28-generic
+
+GCC Build Version: gcc (Ubuntu 5.4.0-6ubuntu1~16.04.4) 5.4.0 20160609
+Copyright (C) 2015 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Kernel build time: #32~16.04.2-Ubuntu SMP Thu Jul 20 10:19:13 UTC 2017
+
+System Architecture : i686
+
+File System Memory:               total        used        free      shared  buff/cache   available
+Mem:           2116         913         171          25        1031         939
+Swap:          2155         503        1652
+
